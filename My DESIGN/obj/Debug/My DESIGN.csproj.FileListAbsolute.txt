@@ -1,0 +1,13 @@
+c:\users\eng-somaia\documents\visual studio 2013\Projects\My DESIGN\My DESIGN\bin\Debug\My DESIGN.exe.config
+C:\Users\Eng-Somaia\documents\visual studio 2013\Projects\My DESIGN\My DESIGN\bin\Debug\My DESIGN.exe
+C:\Users\Eng-Somaia\documents\visual studio 2013\Projects\My DESIGN\My DESIGN\bin\Debug\My DESIGN.pdb
+C:\Users\Eng-Somaia\documents\visual studio 2013\Projects\My DESIGN\My DESIGN\obj\Debug\My DESIGN.csprojResolveAssemblyReference.cache
+C:\Users\Eng-Somaia\documents\visual studio 2013\Projects\My DESIGN\My DESIGN\obj\Debug\My DESIGN.exe
+C:\Users\Eng-Somaia\documents\visual studio 2013\Projects\My DESIGN\My DESIGN\obj\Debug\My DESIGN.pdb
+H:\Makeup Brand\My DESIGN\bin\Debug\My DESIGN.exe.config
+H:\Makeup Brand\My DESIGN\bin\Debug\My DESIGN.exe
+H:\Makeup Brand\My DESIGN\bin\Debug\My DESIGN.pdb
+H:\Makeup Brand\My DESIGN\obj\Debug\My DESIGN.csprojAssemblyReference.cache
+H:\Makeup Brand\My DESIGN\obj\Debug\My DESIGN.csproj.CoreCompileInputs.cache
+H:\Makeup Brand\My DESIGN\obj\Debug\My DESIGN.exe
+H:\Makeup Brand\My DESIGN\obj\Debug\My DESIGN.pdb

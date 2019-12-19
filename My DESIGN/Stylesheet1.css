@@ -1,0 +1,81 @@
+﻿/***************************My Frame Work *****************/
+*{
+    max-width: 100%
+}
+.sectiontitle {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    color: #0026ff;
+    margin-bottom:50px;
+    position: relative
+}
+    .sectiontitle::before{
+        content:"";
+        position: absolute;
+        bottom:-14px;
+        left:50%;
+        width: 100px;
+        height:2px;
+        background: #0026ff;
+        transform: translateX(-50%)
+    }
+    .sectiontitle::after {
+        content: "";
+        position: absolute;
+        bottom: -23px;
+        left: 50%;
+        width: 20px;
+        height: 20px;
+        border: 4px solid #fff;
+        background: #0026ff;
+        transform: translateX(-50%)
+    }
+    /***************************/
+    header {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 9999
+    }
+    header nav.navbar {
+        background: #abbec5
+    }
+nav.navbar .dropdown{
+    border: 1px solid #333;
+    border-radius:4px
+}
+/************************** Slider ********************************/
+.carousel-caption{
+    bottom:0px;
+}
+/**************************** AboutSection *************/
+.AboutSection{
+    padding:100px 0
+}
+
+/***********************ServiceSection****************/
+.ServiceSection{
+    background: #808080;
+}
+
+.ServiceSection .sectiontitle::after {
+    border-color: #808080;
+}
+
+
+/*******************/
+#testSlider{
+    height:400px;
+    padding:100px 0;
+}
+#testSlider .carousel-caption{
+    position: static;
+   padding: 0 15%;
+   color: #333 !important
+}
+    #testSlider .carousel-caption .media img{
+        width: 100px;
+        height:100px;
+
+    }
