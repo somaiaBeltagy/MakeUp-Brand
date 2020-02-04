@@ -233,3 +233,10 @@ a:not([href]):not([tabindex]) {
     height:100px;
     margin-bottom:20px;
 }
+.footer-icon {
+    color: #d81d66;
+}
+
+    .footer-icon:hover {
+        color: black;
+    }

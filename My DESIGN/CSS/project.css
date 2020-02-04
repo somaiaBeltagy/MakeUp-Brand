@@ -160,3 +160,10 @@ a{
 .list-1:after{
     content:" .. "
 }
+.footer-icon {
+    color: #d81d66;
+}
+
+    .footer-icon:hover {
+        color: black;
+    }

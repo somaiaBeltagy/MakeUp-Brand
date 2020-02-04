@@ -224,12 +224,15 @@ video {
 
 }
 
+.fa-star-half-alt{
+
+color:#dc3545
+
+}
 
 
-
-
-.fa-star{
-    color:#d81d66;
+.fa-star {
+    color: #d81d66;
 }
 .fa-quote-left {
     color: #d81d66;
@@ -266,4 +269,11 @@ video {
     width: 100px;
     height: 100px;
     margin-bottom: 20px;
+}
+.footer-icon{
+
+    color:#d81d66;
+}
+.footer-icon:hover {
+    color: black;
 }
